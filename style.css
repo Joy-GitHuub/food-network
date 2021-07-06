@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+     }
+
+h1 {
+    font-size: 50px;
+    color: ;
+
+}
+span{
+    color: tomato;
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(cyan,blue);
+    color: white;
+    padding: 7px 17px;
+    border-radius: 15px;
+    font-weight: bolder;
+}
+.flex{
+    display: flex;
+    margin-bottom: 60px;
+}
+.half-width{
+    width: 50%;
+    padding: 8%;
+}
+.half-width img{
+    width: 100%;
+    
+}
+.link-btn-down{
+    padding-top: 40px;
+}
+#about-me{
+    padding-top: 20%;
+    padding-left: 10%;
+}
+#cover{
+    background-image: url(/img-assi/Frame\ 57.jpg);
+}
