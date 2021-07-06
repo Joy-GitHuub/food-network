@@ -53,12 +53,13 @@ span{
     
 }
 .card{
+    
     width: 220px;
     height: 400px;
     margin: 10px;
     background-color:white(10, 1, 1);
     color: black;
-    box-shadow: 10px 10px 40px;
+    box-shadow: 3px 3px 15px;
     border-radius: 15px;
     border: 5px solid white;
    
@@ -81,4 +82,7 @@ span{
 
 .jpg-1{
     background-image: url(/img-assi/Project\ Cover5.png);
+}
+h2{
+    text-align: center;
 }
