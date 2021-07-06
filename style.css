@@ -83,6 +83,36 @@ span{
 .jpg-1{
     background-image: url(/img-assi/Project\ Cover5.png);
 }
-h2{
+footer{
     text-align: center;
+    background-color: black;
+    color: white;
 }
+.follow-continar{
+    border: 6px solid rgb(235,230 ,230 );
+    border-radius: 30px;
+    margin: 40px;
+    
+    width: 90%;
+    
+    margin-right: 10%;
+    
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.follow{
+    width: 30%;
+    
+    margin-left: 20px;
+}
+.form-container{
+margin: auto;
+width: 500px;
+max-width: ;
+}
+
+  
+
+
