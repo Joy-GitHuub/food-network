@@ -129,3 +129,6 @@ max-width: 90%;
 .my-story{
     color: rgb(221, 236, 14);
 }
+.title{
+    text-align: center;
+}
