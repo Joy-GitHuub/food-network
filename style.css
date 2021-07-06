@@ -6,8 +6,7 @@ body{
     
      }
      
-;
-}
+
 h1 {
     font-size: 50px;
     color: ;
@@ -118,9 +117,11 @@ max-width: 90%;
     text-align: center;
     background: coral;
     color: teal;
-    margin: 20px;
-    border-radius: 10px ;
-    padding: 3px;
+
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 25px ;
+    ;
 }
 #sp{
     color: white;
