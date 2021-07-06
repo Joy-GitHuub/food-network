@@ -3,9 +3,11 @@ body{
     box-sizing: border-box;
     padding: 0;
     font-family: 'Poppins', sans-serif;
+    
      }
      
-
+;
+}
 h1 {
     font-size: 50px;
     color: ;
@@ -110,9 +112,20 @@ footer{
 .form-container{
 margin: auto;
 width: 500px;
-max-width: ;
+max-width: 90%;
 }
-
-  
-
+.section-5{
+    text-align: center;
+    background: coral;
+    color: teal;
+    margin: 20px;
+    border-radius: 10px ;
+    padding: 3px;
+}
+#sp{
+    color: white;
+}
+.my-story{
+    color: rgb(221, 236, 14);
+}
 
