@@ -43,7 +43,7 @@ span{
     padding-left: 10%;
 }
 #cover{
-    background-image: url(/img-assi/Frame\ 57.jpg);
+    background-image: url(img-assi/Frame\ 57.jpg);
 }
 #quotes{
     text-align: center;
@@ -75,14 +75,14 @@ span{
 
 }
 .jpg-3{
-    background-image: url(/img-assi/Project\ Cover.png);
+    background-image: url(img-assi/Project\ Cover.png);
 }
 .jpg-2{
-    background-image: url(/img-assi/Project\ Cover1.jpg);
+    background-image: url(img-assi/Project\ Cover1.jpg);
 }
 
 .jpg-1{
-    background-image: url(/img-assi/Project\ Cover5.png);
+    background-image: url(img-assi/Project\ Cover5.png);
 }
 footer{
     text-align: center;
